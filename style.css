@@ -1,0 +1,25 @@
+#about-me { color:#000080 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: Georgia;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+p {margin: 0;
+  position: absolute;
+  top: 72%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: Georgia;
+  }
