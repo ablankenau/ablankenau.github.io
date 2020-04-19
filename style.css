@@ -1,4 +1,8 @@
-#about-me { color:#000080 }
+#about-me { color:#191970 }
+
+body {
+  background-color:#E6E6FA;
+}
 
 img {
   display: block;
