@@ -16,6 +16,26 @@ h2 {
     text-decoration: underline;
 }
 
+h3 {
+    font-family: Georgia;
+    font-size: large;
+    margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 40%;
+    transform: translate(-50%, -50%)
+}
+
+h4 {
+    font-family: Georgia;
+    font-size: large;
+    margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 60%;
+    transform: translate(-50%, -50%)
+}
+
 p {margin: 0;
   position: absolute;
   top: 72%;
